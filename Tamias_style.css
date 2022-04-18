@@ -28,7 +28,7 @@ body {
 }
 
 .historical-places{
-    background-color: #722e2e;
+    /* align-content: center; */background-color: #722e2e;
     padding:0.8em;
     margin: 0.8em;
     text-align: center;
@@ -59,7 +59,7 @@ th, td {
     background-color: #722e2e;
     padding: 0.8em;
     margin: 0.6em;
-    width: 30.2%;
+    width: 28.2%;
     /*height: 30.2em;*/
     float: left;
     text-align: left;
@@ -71,7 +71,7 @@ th, td {
     background-color: #722e2e;
     padding: 0.8em;
     margin: 0.6em;
-    width: 30.2%;
+    width: 28.2%;
     /*height: 30.2em;*/
     float: left;
     text-align: left;
@@ -83,7 +83,7 @@ th, td {
     background-color: #722e2e;
     padding: 0.8em;
     margin: 0.6em;
-    width: 30.2%;
+    width: 28.2%;
     /*height: 30.2em; */
     float: left;
     text-align: left;
@@ -119,7 +119,7 @@ th, td {
     float: right;
     margin: 0.8em; 
     width: 45%;
-    height: 18em;
+    height: 15em;
     border: 1px solid #8b3f53;
     border-radius: 0.8em;
 }
@@ -128,7 +128,7 @@ th, td {
     float: right;
     margin: 0.8em; 
     width: 45%;
-    height: 18em;
+    height: 15em;
     border: 1px solid #8b3f53;
     border-radius: 0.8em;
 }
@@ -137,7 +137,7 @@ th, td {
     float: right;
     margin: 0.8em; 
     width: 45%;
-    height: 18em;
+    height: 15em;
     border: 1px solid #8b3f53;
     border-radius: 0.8em;
 }
@@ -190,7 +190,7 @@ th, td {
     
     .header img {
         margin: auto; 
-        width: 55%;
+        width: 40%;
         height: 20em;
         border: 1px solid #8b3f53;
         border-radius: 0.8em;
